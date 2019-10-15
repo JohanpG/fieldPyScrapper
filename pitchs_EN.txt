@@ -1,0 +1,4257 @@
+[
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Zathura",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=316&lang=en",
+				"telephone" : "+57 313 6398153",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "5",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Canchas Sinteticas - Zatura, Carrera 66, Bosques De La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Bosques De La Hacienda",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Canchas Sinteticas - Zatura, Carrera 66, Bosques De La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Bosques De La Hacienda, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39758",
+					    "longitude" : "-76.5258"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Estadio Atletico Universitario CDU",
+			  	"description" : "School / University - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=327&lang=en",
+				"telephone" : "+57 2 3212100",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "5",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37188",
+					    "longitude" : "-76.5325"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Camp Nou Sur",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=399&lang=en",
+				"telephone" : "+57 2 3151528",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Camp Nou Sur, Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Quintas de don Simon",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Camp Nou Sur, Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Quintas de don Simon, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.3925",
+					    "longitude" : "-76.5308"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - 7776 - Carrera 1F Norte",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=347&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "5",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "7776, Carrera 1F Norte, Comfenalco, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Comfenalco",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "7776, Carrera 1F Norte, Comfenalco, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Comfenalco, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49379",
+					    "longitude" : "-76.4881"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Junta de accion comunal Barrio 1ro de Mayo",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=309&lang=en",
+				"telephone" : "316 727 5020 - 317",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 13F, Primero de Mayo, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Primero de Mayo, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 13F, Primero de Mayo, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Primero de Mayo, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40491",
+					    "longitude" : "-76.5323"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "School / University - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=325&lang=en",
+				"telephone" : "PBX: +57 2 3212100",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.3699",
+					    "longitude" : "-76.5323"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 39 Norte - Bolivariano",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=323&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 39 Norte, Bolivariano, Santiago de Cali, Cali, Valle del Cauca, 760050, Colombia",
+				    "addressLocality" : "Prados del Norte, Comuna 2",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 39 Norte, Bolivariano, Santiago de Cali, Cali, Valle del Cauca, 760050, Colombia, Prados del Norte, Comuna 2, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.47339",
+					    "longitude" : "-76.5148"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "La Tokta",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=314&lang=en",
+				"telephone" : "+57 315 6491419",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Iglesia Adventista Maranatha, Carrera 63B, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia",
+				    "addressLocality" : "Canaveralejo-Seguros Patria, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Iglesia Adventista Maranatha, Carrera 63B, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia, Canaveralejo-Seguros Patria, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40115",
+					    "longitude" : "-76.5452"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Calle 4 - Quintas de la Bocana",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=315&lang=en",
+				"telephone" : "+57 2 3125427",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 4, Quintas de la Bocana, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia",
+				    "addressLocality" : "Alferez Real, Comuna 18",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 4, Quintas de la Bocana, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia, Alferez Real, Comuna 18, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39117",
+					    "longitude" : "-76.5465"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "School / University - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=332&lang=en",
+				"telephone" : "+57 2 3212100",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37182",
+					    "longitude" : "-76.5326"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "School / University - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=329&lang=en",
+				"telephone" : "+57 2 3212100",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37123",
+					    "longitude" : "-76.5303"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Canchas Sinteticas - Zatura - Carrera 66",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=322&lang=en",
+				"telephone" : "+57 313 6398153",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Canchas Sinteticas - Zatura, Carrera 66, Bosques De La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Bosques De La Hacienda",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Canchas Sinteticas - Zatura, Carrera 66, Bosques De La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Bosques De La Hacienda, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39756",
+					    "longitude" : "-76.5257"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Cancha de fútbol - Carrera 1AE",
+			  	"description" : "Football field in the public park - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=377&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Cancha de fútbol, Carrera 1AE, Comfenalco, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Comfenalco",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Cancha de fútbol, Carrera 1AE, Comfenalco, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Comfenalco, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.4872",
+					    "longitude" : "-76.492"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Morumbi",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=312&lang=en",
+				"telephone" : "+57 2 3128240",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "La Hacienda, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, La Hacienda, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39314",
+					    "longitude" : "-76.534"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Pascual futbol 5",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=307&lang=en",
+				"telephone" : "3841790",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 36, San Fernando, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "San Fernando Nuevo, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 36, San Fernando, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, San Fernando Nuevo, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.427",
+					    "longitude" : "-76.54"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "El Pascualito",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=308&lang=en",
+				"telephone" : "3004428365",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "Las Delicias",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, Las Delicias, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.45392",
+					    "longitude" : "-76.5074"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Chipofutbol5",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=311&lang=en",
+				"telephone" : "+57 314 6641643",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Jumbo CENCOSUD - Chipichape, Calle 39 Norte, Prados del Norte, Santiago de Cali, Cali, Valle del Cauca, 760050, Colombia",
+				    "addressLocality" : "Prados del Norte",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Jumbo CENCOSUD - Chipichape, Calle 39 Norte, Prados del Norte, Santiago de Cali, Cali, Valle del Cauca, 760050, Colombia, Prados del Norte, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.47956",
+					    "longitude" : "-76.5275"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Euforia Futbol 5",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=313&lang=en",
+				"telephone" : "+57 313 7681332",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 12A, Primero de Mayo, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Santa Anita, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 12A, Primero de Mayo, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Santa Anita, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40584",
+					    "longitude" : "-76.5368"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 49G - Santiago de Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=400&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "4",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 49G, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia",
+				    "addressLocality" : "Bajos Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 49G, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia, Bajos Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39339",
+					    "longitude" : "-76.5114"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "School / University - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=331&lang=en",
+				"telephone" : "+57 2 3212221",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3.67",
+						"ratingCount" : "3",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37072",
+					    "longitude" : "-76.5312"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Colegio Politecnico - Carrera 62",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=358&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3.67",
+						"ratingCount" : "3",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Colegio Politécnico, Carrera 62, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "La Cascada, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Colegio Politécnico, Carrera 62, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, La Cascada, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.404",
+					    "longitude" : "-76.5546"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Parroquia El Divino Niño - Calle 14",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=398&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Parroquia El Divino Niño, Calle 14, La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "La Hacienda",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Parroquia El Divino Niño, Calle 14, La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, La Hacienda, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40305",
+					    "longitude" : "-76.5322"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 69 - Los Chiminangos",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=341&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 69, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Los Guayacanes, Comuna 5",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 69, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Los Guayacanes, Comuna 5, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.47179",
+					    "longitude" : "-76.4881"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 41 - Las Delicias",
+			  	"description" : "Football field in the public park - 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=324&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 41, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "Esmeralda, Comuna 4",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 41, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, Esmeralda, Comuna 4, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.45864",
+					    "longitude" : "-76.5081"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad deportiva Jaime Aparicio - Calle 10",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=372&lang=en",
+				"telephone" : "+57 2 887 9020",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42501",
+					    "longitude" : "-76.5353"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Parque República de Israel",
+			  	"description" : "Football field in the public park - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=407&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "3",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Iglesia Pentecostés Unida Internacional de Colombia, Carrera 44A, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Villa del Sur",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Iglesia Pentecostés Unida Internacional de Colombia, Carrera 44A, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Villa del Sur, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40888",
+					    "longitude" : "-76.5158"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Unidad Deportiva Mariano Ramos",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=359&lang=en",
+				"telephone" : "(57+2) 887 9020",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Polideportivo Mariano Ramos, Carrera 48, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Villa del Sur",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Polideportivo Mariano Ramos, Carrera 48, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Villa del Sur, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.4043",
+					    "longitude" : "-76.5208"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad deportiva San Fernando - Carrera 36",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=338&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad deportiva San Fernando, Carrera 36, San Fernando, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia",
+				    "addressLocality" : "San Fernando",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad deportiva San Fernando, Carrera 36, San Fernando, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia, San Fernando, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.43003",
+					    "longitude" : "-76.5416"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 70 Norte - Calima",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=335&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 70 Norte, Calima, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Los Guaduales, Comuna 4",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 70 Norte, Calima, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Los Guaduales, Comuna 4, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48765",
+					    "longitude" : "-76.5014"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "School / University - 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=326&lang=en",
+				"telephone" : "+57 2 3212221",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.36995",
+					    "longitude" : "-76.5322"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad Recreativa Horizontes - Carrera 94A",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=375&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad Recreativa Horizontes, Carrera 94A, Altos de Santa Elena, La Voragine, La Buitrera, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Altos de Santa Elena",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad Recreativa Horizontes, Carrera 94A, Altos de Santa Elena, La Voragine, La Buitrera, Cali, Valle del Cauca, 760032, Colombia, Altos de Santa Elena, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37596",
+					    "longitude" : "-76.5479"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 123 - Santiago de Cali",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=384&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 123, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia",
+				    "addressLocality" : "Pizamos I, Comuna 21",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 123, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia, Pizamos I, Comuna 21, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40262",
+					    "longitude" : "-76.4725"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 50 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=409&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40415",
+					    "longitude" : "-76.5052"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 50 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=408&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40086",
+					    "longitude" : "-76.5088"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 43B - Villa del Sur",
+			  	"description" : "Football field in the public park - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=406&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "2",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 43B, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Republica de Israel, Comuna 16",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 43B, Villa del Sur, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Republica de Israel, Comuna 16, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40492",
+					    "longitude" : "-76.5107"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 50 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=397&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "1.5",
+						"ratingCount" : "2",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39948",
+					    "longitude" : "-76.5103"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Parroquia Divino Salvador - Carrera 67",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=410&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "1",
+						"ratingCount" : "1",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Parroquia Divino Salvador, Carrera 67, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia",
+				    "addressLocality" : "El Refugio, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Parroquia Divino Salvador, Carrera 67, Buenos Aires, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia, El Refugio, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39642",
+					    "longitude" : "-76.5493"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Camp Nou Sur",
+			  	"description" : "Football Field to rent - 5-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=251&lang=en",
+				"telephone" : "3749535",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Camp Nou Sur, Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Quintas de don Simon",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Camp Nou Sur, Carrera 70, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Quintas de don Simon, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39274",
+					    "longitude" : "-76.5308"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "La Caldera",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=310&lang=en",
+				"telephone" : "314 888 0595",
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "30-50, Carrera 6, Santander, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "Santander",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "30-50, Carrera 6, Santander, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, Santander, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.45702",
+					    "longitude" : "-76.5158"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=328&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37236",
+					    "longitude" : "-76.5322"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=330&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37226",
+					    "longitude" : "-76.5315"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=333&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37119",
+					    "longitude" : "-76.5319"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad Recreativa Olimpico - Carrera 36",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=334&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad Recreativa Olímpico, Carrera 36, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad Recreativa Olímpico, Carrera 36, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42226",
+					    "longitude" : "-76.5322"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 9 Norte - Guaduales",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=336&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 9 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Los Guaduales, Comuna 6",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 9 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Los Guaduales, Comuna 6, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48931",
+					    "longitude" : "-76.5022"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Cancha del barrio Pasoancho - Carrera 40C",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=337&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Cancha del barrio Pasoancho, Carrera 40C, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Cancha del barrio Pasoancho, Carrera 40C, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41825",
+					    "longitude" : "-76.5336"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 40 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=339&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 40, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Antonio Nariño, Comuna 16",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 40, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Antonio Nariño, Comuna 16, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41193",
+					    "longitude" : "-76.5049"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 50 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=340&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40544",
+					    "longitude" : "-76.5041"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Cancha Microfutbol - Carrera 24",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=342&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Cancha Microfútbol, Carrera 24, Junín, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Junin",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Cancha Microfútbol, Carrera 24, Junín, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Junin, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.43177",
+					    "longitude" : "-76.5286"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "TIRO DE ESQUINA futbol Club",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=343&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "TIRO DE ESQUINA Fútbol Club, Calle 13A, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Quintas de don Simon",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "TIRO DE ESQUINA Fútbol Club, Calle 13A, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Quintas de don Simon, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39275",
+					    "longitude" : "-76.5374"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 17 - La Hacienda",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=344&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 17, La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Canaverales Los Samanes, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 17, La Hacienda, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Canaverales Los Samanes, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40114",
+					    "longitude" : "-76.5268"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Avenida 2A Norte - Flora Industrial",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=345&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Avenida 2A Norte, Flora Industrial, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia",
+				    "addressLocality" : "Urbanizacion La Merced, Comuna 2",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Avenida 2A Norte, Flora Industrial, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia, Urbanizacion La Merced, Comuna 2, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48104",
+					    "longitude" : "-76.5099"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 23 - Aguablanca",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=346&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 23, Aguablanca, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "San Cristobal, Comuna 10",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 23, Aguablanca, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, San Cristobal, Comuna 10, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.43098",
+					    "longitude" : "-76.5207"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Merca Mio - Carrera 4 Norte",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=348&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Merca Mio, Carrera 4 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Guaduales",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Merca Mio, Carrera 4 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Guaduales, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49193",
+					    "longitude" : "-76.4961"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Maria Misionera - Calle 72J",
+			  	"description" : "Football field in the public park - 8-a-side, 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=349&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Maria Misionera, Calle 72J, Ciudadela Floralia, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Ciudadela Floralia",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Maria Misionera, Calle 72J, Ciudadela Floralia, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Ciudadela Floralia, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49529",
+					    "longitude" : "-76.4962"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 72F - Ciudadela Floralia",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=350&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 72F, Ciudadela Floralia, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Ciudadela Floralia, Comuna 6",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 72F, Ciudadela Floralia, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Ciudadela Floralia, Comuna 6, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49329",
+					    "longitude" : "-76.4933"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 70 - Autopista Simon Bolivar - Los Chiminangos",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=351&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 70 - Autopista Simon Bolivar, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Metropolitano del Norte, Comuna 5",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 70 - Autopista Simon Bolivar, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Metropolitano del Norte, Comuna 5, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.4788",
+					    "longitude" : "-76.4888"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 70 - Autopista Simon Bolivar - Los Chiminangos",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=352&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 70 - Autopista Simon Bolivar, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "Metropolitano del Norte, Comuna 5",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 70 - Autopista Simon Bolivar, Los Chiminangos, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, Metropolitano del Norte, Comuna 5, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.47795",
+					    "longitude" : "-76.4886"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 58 - Los Andes",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=353&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 58, Los Andes, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia",
+				    "addressLocality" : "Los Andes, Comuna 5",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 58, Los Andes, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia, Los Andes, Comuna 5, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.4717",
+					    "longitude" : "-76.4976"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "El Planchon",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=354&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "El Planchon, Avenida 2E Norte, Ciudad Los Alamos, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia",
+				    "addressLocality" : "Ciudad Los Alamos",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "El Planchon, Avenida 2E Norte, Ciudad Los Alamos, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia, Ciudad Los Alamos, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48485",
+					    "longitude" : "-76.5084"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Institucion Tecnica Multiproposito - Carrera 56",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=355&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Institucion Técnica Multiproposito, Carrera 56, Brisas de Guadalupe, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Brisas de Guadalupe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Institucion Técnica Multiproposito, Carrera 56, Brisas de Guadalupe, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Brisas de Guadalupe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41016",
+					    "longitude" : "-76.5624"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad Deportiva Alberto Galindo - Carrera 52",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=356&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad Deportiva Alberto Galindo, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Siloe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad Deportiva Alberto Galindo, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Siloe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41339",
+					    "longitude" : "-76.5534"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "El Pascualito",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=357&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad Deportiva Alberto Galindo, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Siloe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad Deportiva Alberto Galindo, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Siloe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41524",
+					    "longitude" : "-76.5533"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Colegio Ideas - Diagonal 51",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=360&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Colegio Ideas, Diagonal 51, El Mango, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "El Mango",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Colegio Ideas, Diagonal 51, El Mango, Cali, Valle del Cauca, 760040, Colombia, El Mango, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40934",
+					    "longitude" : "-76.57"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Institucion Educativa Eustaquio Palacios - Carrera 52",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=361&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Institución Educativa Eustaquio Palacios, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Siloe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Institución Educativa Eustaquio Palacios, Carrera 52, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Siloe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41587",
+					    "longitude" : "-76.5528"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Siloe - Santiago de Cali",
+			  	"description" : "Football field in the public park - 11-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=362&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Sector Canaveralejo, Comuna 20",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Sector Canaveralejo, Comuna 20, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41341",
+					    "longitude" : "-76.5616"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 53 - Siloe",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=363&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 53, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "La Sultana, Comuna 20",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 53, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, La Sultana, Comuna 20, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42039",
+					    "longitude" : "-76.5661"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Polideportivo La Estrella - Calle 8 Oeste",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=364&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Polideportivo La Estrella, Calle 8 Oeste, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Siloe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Polideportivo La Estrella, Calle 8 Oeste, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Siloe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.425",
+					    "longitude" : "-76.5579"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Club social y deportivo Tequendama - Carrera 53",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=365&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Club social y deportivo Tequendama, Carrera 53, Castellana, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Castellana",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Club social y deportivo Tequendama, Carrera 53, Castellana, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Castellana, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41318",
+					    "longitude" : "-76.5456"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 3B - Francisco Eladio Ramirez",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=366&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 3B, Francisco Eladio Ramirez, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia",
+				    "addressLocality" : "Francisco Eladio Ramirez, Comuna 18",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 3B, Francisco Eladio Ramirez, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia, Francisco Eladio Ramirez, Comuna 18, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.38905",
+					    "longitude" : "-76.5478"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 71 - Lourdes",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=367&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 71, Lourdes, Santiago de Cali, Cali, Valle del Cauca, 9999999, Colombia",
+				    "addressLocality" : "Lourdes, Comuna 18",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 71, Lourdes, Santiago de Cali, Cali, Valle del Cauca, 9999999, Colombia, Lourdes, Comuna 18, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39253",
+					    "longitude" : "-76.5548"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 65A - Multifamiliar Los Cerros",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=368&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 65A, Multifamiliar Los Cerros, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia",
+				    "addressLocality" : "La Cascada, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 65A, Multifamiliar Los Cerros, Santiago de Cali, Cali, Valle del Cauca, 760035, Colombia, La Cascada, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39955",
+					    "longitude" : "-76.554"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad deportiva Jaime Aparicio - Calle 10",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=369&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42594",
+					    "longitude" : "-76.5346"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad deportiva Jaime Aparicio - Calle 10",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=370&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42502",
+					    "longitude" : "-76.5349"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Unidad deportiva Jaime Aparicio - Calle 10",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=371&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia",
+				    "addressLocality" : "Olimpico",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Unidad deportiva Jaime Aparicio, Calle 10, Olimpico, Santiago de Cali, Cali, Valle del Cauca, 720025, Colombia, Olimpico, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42606",
+					    "longitude" : "-76.5348"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad Del Valle - Sede San Fernando - Calle 4B",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=373&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad Del Valle - Sede San Fernando, Calle 4B, 3 de Julio, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia",
+				    "addressLocality" : "3 de Julio",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad Del Valle - Sede San Fernando, Calle 4B, 3 de Julio, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia, 3 de Julio, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.43093",
+					    "longitude" : "-76.546"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - La Riverita - La Voragine",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=374&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "La Riverita, La Voragine, La Buitrera, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "La Buitrera",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "La Riverita, La Voragine, La Buitrera, Cali, Valle del Cauca, 760032, Colombia, La Buitrera, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.36368",
+					    "longitude" : "-76.5623"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Canchas de futbol 5 - Carrera 38A",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=376&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Canchas de fútbol 5, Carrera 38A, Los Cambulos, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia",
+				    "addressLocality" : "Los Cambulos",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Canchas de fútbol 5, Carrera 38A, Los Cambulos, Santiago de Cali, Cali, Valle del Cauca, 760042, Colombia, Los Cambulos, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.42398",
+					    "longitude" : "-76.5431"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Cancha fútbol San Luis II - Calle 72C",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=378&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Cancha fútbol San Luis II, Calle 72C, San Luis 2, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "San Luis 2",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Cancha fútbol San Luis II, Calle 72C, San Luis 2, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, San Luis 2, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48807",
+					    "longitude" : "-76.488"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Cancha Baloncesto San Luis II - Calle 73",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=379&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Cancha Baloncesto San Luis II, Calle 73, San Luis 2, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia",
+				    "addressLocality" : "San Luis 2",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Cancha Baloncesto San Luis II, Calle 73, San Luis 2, Santiago de Cali, Cali, Valle del Cauca, 760006, Colombia, San Luis 2, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48733",
+					    "longitude" : "-76.4873"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Acuaparque de la Caña - Calle 44",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=380&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "Las Delicias",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, Las Delicias, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.45703",
+					    "longitude" : "-76.5093"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Acuaparque de la Caña - Calle 44",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=381&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia",
+				    "addressLocality" : "Las Delicias",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Acuaparque de la Caña, Calle 44, Las Delicias, Santiago de Cali, Cali, Valle del Cauca, 76001, Colombia, Las Delicias, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.45648",
+					    "longitude" : "-76.5099"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 5 Norte - Puerto Chontaduro",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=382&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 5 Norte, Puerto Chontaduro, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia",
+				    "addressLocality" : "Unidad Residencial Bueno Madrid, Comuna 4",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 5 Norte, Puerto Chontaduro, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia, Unidad Residencial Bueno Madrid, Comuna 4, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.46806",
+					    "longitude" : "-76.5166"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 123 Bis - Santiago de Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=383&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 123 Bis, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia",
+				    "addressLocality" : "Pizamos II, Comuna 21",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 123 Bis, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia, Pizamos II, Comuna 21, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40296",
+					    "longitude" : "-76.4723"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "EL Morumbi",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=385&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "EL Morumbi, Calle 13A 1, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Quintas de don Simon",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "EL Morumbi, Calle 13A 1, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Quintas de don Simon, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39452",
+					    "longitude" : "-76.5361"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Santiago de Cali - Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=386&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia",
+				    "addressLocality" : "Valle del Cauca",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia, Valle del Cauca, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.4051",
+					    "longitude" : "-76.471"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Polideportivo - calle 128 C8",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=387&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Polideportivo, calle 128 C8, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia",
+				    "addressLocality" : "Potrero Grande, Comuna 21",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Polideportivo, calle 128 C8, Santiago de Cali, Cali, Valle del Cauca, 760021, Colombia, Potrero Grande, Comuna 21, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40646",
+					    "longitude" : "-76.467"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Montebello - Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=388&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Montebello, Cali, Valle del Cauca, 760050, Colombia",
+				    "addressLocality" : "Valle del Cauca",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Montebello, Cali, Valle del Cauca, 760050, Colombia, Valle del Cauca, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49404",
+					    "longitude" : "-76.553"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 2A - Siloe",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=389&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 2A, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Cuarto de Legua-Guadalupe, Comuna 19",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 2A, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Cuarto de Legua-Guadalupe, Comuna 19, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40787",
+					    "longitude" : "-76.552"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Institucion Tecnica Multiproposito - Carrera 56",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=390&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Institucion Técnica Multiproposito, Carrera 56, Brisas de Guadalupe, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Brisas de Guadalupe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Institucion Técnica Multiproposito, Carrera 56, Brisas de Guadalupe, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Brisas de Guadalupe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41144",
+					    "longitude" : "-76.5619"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Siloe - Santiago de Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=391&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Sector Canaveralejo, Comuna 20",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Sector Canaveralejo, Comuna 20, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41335",
+					    "longitude" : "-76.561"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Diagonal 53 - Siloe",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=392&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Diagonal 53, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Sector Canaveralejo, Comuna 20",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Diagonal 53, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Sector Canaveralejo, Comuna 20, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41194",
+					    "longitude" : "-76.5627"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 23 - La Selva",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=393&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 23, La Selva, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia",
+				    "addressLocality" : "Canaverales Los Samanes, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 23, La Selva, Santiago de Cali, Cali, Valle del Cauca, 760033, Colombia, Canaverales Los Samanes, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40273",
+					    "longitude" : "-76.5236"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 13C - El Zaguan de las Quintas",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=394&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 13C, El Zaguán de las Quintas, Santiago de Cali, Cali, Valle del Cauca, 760001, Colombia",
+				    "addressLocality" : "Quintas de Don Simon, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 13C, El Zaguán de las Quintas, Santiago de Cali, Cali, Valle del Cauca, 760001, Colombia, Quintas de Don Simon, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.389",
+					    "longitude" : "-76.5345"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 76 - Quintas de don Simon",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=395&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 76, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760001, Colombia",
+				    "addressLocality" : "Quintas de Don Simon, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 76, Quintas de don Simón, Santiago de Cali, Cali, Valle del Cauca, 760001, Colombia, Quintas de Don Simon, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.38908",
+					    "longitude" : "-76.5369"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 50 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=396&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 50, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39924",
+					    "longitude" : "-76.5109"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 50 - Santiago de Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=401&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 50, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia",
+				    "addressLocality" : "Bajos Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 50, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia, Bajos Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.38979",
+					    "longitude" : "-76.5097"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 55A - Santiago de Cali",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=402&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 55A, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia",
+				    "addressLocality" : "Bajos Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 55A, Santiago de Cali, Cali, Valle del Cauca, 76026, Colombia, Bajos Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.39321",
+					    "longitude" : "-76.5106"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 41D - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=403&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 41D, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Bajos Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 41D, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Bajos Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40316",
+					    "longitude" : "-76.5009"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 55 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=404&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 55, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Bajos Ciudad Cordoba, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 55, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Bajos Ciudad Cordoba, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40324",
+					    "longitude" : "-76.5001"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 57 - Antonio Nariño",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=405&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 57, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia",
+				    "addressLocality" : "Vallado, Comuna 15",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 57, Antonio Nariño, Santiago de Cali, Cali, Valle del Cauca, 760020, Colombia, Vallado, Comuna 15, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.40429",
+					    "longitude" : "-76.4975"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=411&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Universidad del Valle",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Universidad del Valle, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.36963",
+					    "longitude" : "-76.5311"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=412&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37132",
+					    "longitude" : "-76.5303"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=413&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37133",
+					    "longitude" : "-76.5306"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=414&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37176",
+					    "longitude" : "-76.5303"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Universidad del Valle - Entrada Peatonal - Avenida Pasoancho.",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=415&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia",
+				    "addressLocality" : "Ciudad Universitaria, Comuna 17",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Universidad del Valle, Entrada Peatonal - Avenida Pasoancho., Multicentro, Santiago de Cali, Cali, Valle del Cauca, 760032, Colombia, Ciudad Universitaria, Comuna 17, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.37176",
+					    "longitude" : "-76.5306"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Pueblo Joven",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=416&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 15 Oeste, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Pueblo Joven, Comuna 20",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 15 Oeste, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Pueblo Joven, Comuna 20, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41613",
+					    "longitude" : "-76.5646"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Centro Cultural y Centro de Desarrollo Comunitario - Carrera 54A",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=417&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Centro Cultural y Centro de Desarrollo Comunitario, Carrera 54A, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia",
+				    "addressLocality" : "Siloe",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Centro Cultural y Centro de Desarrollo Comunitario, Carrera 54A, Siloé, Santiago de Cali, Cali, Valle del Cauca, 760040, Colombia, Siloe, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.41582",
+					    "longitude" : "-76.5628"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "LocalBusiness",
+			  	"name": "Cancha de fútbol - Canchas de futbol Bernabeu - Carrera 5 Norte",
+			  	"description" : "Football Field to rent - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=418&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Canchas de fútbol Bernabeu, Carrera 5 Norte, Puerto Chontaduro, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia",
+				    "addressLocality" : "Puerto Chontaduro",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Canchas de fútbol Bernabeu, Carrera 5 Norte, Puerto Chontaduro, Santiago de Cali, Cali, Valle del Cauca, 750004, Colombia, Puerto Chontaduro, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.47928",
+					    "longitude" : "-76.505"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Calle 70 Norte - Calima",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=419&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Calle 70 Norte, Calima, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Los Guaduales, Comuna 4",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Calle 70 Norte, Calima, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Los Guaduales, Comuna 4, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48767",
+					    "longitude" : "-76.5013"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 9 Norte - Guaduales",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=420&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 9 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Los Guaduales, Comuna 6",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 9 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Los Guaduales, Comuna 6, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48913",
+					    "longitude" : "-76.5022"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 3E Norte - Conjunto residencial el Oasis de Comfandi B",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=421&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 3E Norte, Conjunto residencial el Oasis de Comfandi B, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Sector Puente del Comercio, Comuna 6",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 3E Norte, Conjunto residencial el Oasis de Comfandi B, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Sector Puente del Comercio, Comuna 6, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.48845",
+					    "longitude" : "-76.498"
+					  }					
+				
+			}
+		,
+			{
+			  	"@context": "http://schema.org",
+			  	"@type": "Place",
+			  	"name": "Cancha de fútbol - Carrera 5 Norte - Guaduales",
+			  	"description" : "Football field in the public park - 5-a-side, 8-a-side",
+		 		"eventStatus" : "",
+			  	"url" : "https://partidito.com/index.php?option=com_pitch&Itemid=484&id=422&lang=en",
+				
+				"aggregateRating" : {
+					    "@type" : "AggregateRating",
+						"ratingValue" : "0",
+						"ratingCount" : "0",
+						"bestRating" : "5",
+						"worstRating" : "1"
+					  },
+
+				  "address" : {
+				    "@type" : "PostalAddress",
+				    "streetAddress" : "Carrera 5 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia",
+				    "addressLocality" : "Los Guaduales, Comuna 6",
+				    "addressRegion" : "Cali",
+				    "addressCountry" : "CO"				
+				  },
+				  	"image" : {
+					    "@type" : "ImageObject",
+						"contentUrl" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"url" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/51_52d143ec8fb23.png",
+						"thumbnail" : "https://partidito.com/images/comprofiler/plug_cbgroupjive/66/tn51_52d143ec8fb23.png",
+						"contentLocation" : "Carrera 5 Norte, Guaduales, Santiago de Cali, Cali, Valle del Cauca, 760002, Colombia, Los Guaduales, Comuna 6, Cali"
+					  },				    		
+				  "geo" : {
+					    "@type" : "GeoCoordinates",
+					    "latitude" : "3.49141",
+					    "longitude" : "-76.4986"
+					  }					
+				
+			}
+		]
